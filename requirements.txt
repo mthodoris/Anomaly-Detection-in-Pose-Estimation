@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tqdm
+seaborn
+matplotlib
+scikit-learn
+pandas
+tensorboard
+networkx==3.1

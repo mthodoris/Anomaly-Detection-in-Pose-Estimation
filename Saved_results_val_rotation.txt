@@ -1,0 +1,228 @@
+
+---- 0 degrees results ---- 
+
+ 514 detections out of 557 samples
+
+ Percentage of detections: 92.28007181328546 %
+
+Avg loss on 0 rotation:  0.05311066598029774
+
+Stdev loss on 0 rotation:  0.15909492520217222
+
+Median loss on 0 rotation:  1.1903121958312113e-05
+
+---- 10 degrees results ---- 
+
+ 496 detections out of 557 samples
+
+ Percentage of detections: 89.04847396768402 %
+
+Avg loss on 10 rotation:  0.06454260431792136
+
+Stdev loss on 10 rotation:  0.17179852351719194
+
+Median loss on 10 rotation:  1.1903121958312113e-05
+
+---- 20 degrees results ---- 
+
+ 477 detections out of 557 samples
+
+ Percentage of detections: 85.63734290843806 %
+
+Avg loss on 20 rotation:  0.06886066836262214
+
+Stdev loss on 20 rotation:  0.17573174826679672
+
+Median loss on 20 rotation:  1.1903121958312113e-05
+
+---- 30 degrees results ---- 
+
+ 457 detections out of 557 samples
+
+ Percentage of detections: 82.04667863554758 %
+
+Avg loss on 30 rotation:  0.0666348726063683
+
+Stdev loss on 30 rotation:  0.16696588881738583
+
+Median loss on 30 rotation:  1.1903121958312113e-05
+
+---- 40 degrees results ---- 
+
+ 442 detections out of 557 samples
+
+ Percentage of detections: 79.35368043087972 %
+
+Avg loss on 40 rotation:  0.06503680459120491
+
+Stdev loss on 40 rotation:  0.16623516031296331
+
+Median loss on 40 rotation:  1.1903121958312113e-05
+
+---- 50 degrees results ---- 
+
+ 383 detections out of 557 samples
+
+ Percentage of detections: 68.76122082585279 %
+
+Avg loss on 50 rotation:  0.06254491450760556
+
+Stdev loss on 50 rotation:  0.16675957598882032
+
+Median loss on 50 rotation:  1.1903121958312113e-05
+
+---- 60 degrees results ---- 
+
+ 339 detections out of 557 samples
+
+ Percentage of detections: 60.86175942549371 %
+
+Avg loss on 60 rotation:  0.10522792426756528
+
+Stdev loss on 60 rotation:  0.21298867803074875
+
+Median loss on 60 rotation:  1.2102712389605585e-05
+
+---- 70 degrees results ---- 
+
+ 324 detections out of 557 samples
+
+ Percentage of detections: 58.16876122082585 %
+
+Avg loss on 70 rotation:  0.1369650528035301
+
+Stdev loss on 70 rotation:  0.2348529799880117
+
+Median loss on 70 rotation:  2.6035515475086868e-05
+
+---- 80 degrees results ---- 
+
+ 325 detections out of 557 samples
+
+ Percentage of detections: 58.34829443447038 %
+
+Avg loss on 80 rotation:  0.20157001750463957
+
+Stdev loss on 80 rotation:  0.27084437272850337
+
+Median loss on 80 rotation:  0.015750866383314133
+
+---- 90 degrees results ---- 
+
+ 322 detections out of 557 samples
+
+ Percentage of detections: 57.809694793536806 %
+
+Avg loss on 90 rotation:  0.2447918398524143
+
+Stdev loss on 90 rotation:  0.2730687537302318
+
+Median loss on 90 rotation:  0.09023356810212135
+
+---- 100 degrees results ---- 
+
+ 298 detections out of 557 samples
+
+ Percentage of detections: 53.50089766606823 %
+
+Avg loss on 100 rotation:  0.29248751534779766
+
+Stdev loss on 100 rotation:  0.278398683799296
+
+Median loss on 100 rotation:  0.2054651454091072
+
+---- 110 degrees results ---- 
+
+ 263 detections out of 557 samples
+
+ Percentage of detections: 47.217235188509875 %
+
+Avg loss on 110 rotation:  0.26990669628987524
+
+Stdev loss on 110 rotation:  0.26511852035106875
+
+Median loss on 110 rotation:  0.17616218328475952
+
+---- 120 degrees results ---- 
+
+ 225 detections out of 557 samples
+
+ Percentage of detections: 40.394973070017954 %
+
+Avg loss on 120 rotation:  0.3388535529390558
+
+Stdev loss on 120 rotation:  0.2633292556537383
+
+Median loss on 120 rotation:  0.33147361874580383
+
+---- 130 degrees results ---- 
+
+ 214 detections out of 557 samples
+
+ Percentage of detections: 38.42010771992819 %
+
+Avg loss on 130 rotation:  0.3683798944411112
+
+Stdev loss on 130 rotation:  0.2591058210621383
+
+Median loss on 130 rotation:  0.4022308886051178
+
+---- 140 degrees results ---- 
+
+ 210 detections out of 557 samples
+
+ Percentage of detections: 37.70197486535009 %
+
+Avg loss on 140 rotation:  0.3471639475286793
+
+Stdev loss on 140 rotation:  0.2512706693352743
+
+Median loss on 140 rotation:  0.3013480007648468
+
+---- 150 degrees results ---- 
+
+ 216 detections out of 557 samples
+
+ Percentage of detections: 38.77917414721723 %
+
+Avg loss on 150 rotation:  0.35372666373710354
+
+Stdev loss on 150 rotation:  0.2566245101062294
+
+Median loss on 150 rotation:  0.3202398717403412
+
+---- 160 degrees results ---- 
+
+ 236 detections out of 557 samples
+
+ Percentage of detections: 42.36983842010772 %
+
+Avg loss on 160 rotation:  0.3410659578765925
+
+Stdev loss on 160 rotation:  0.25962355185840275
+
+Median loss on 160 rotation:  0.285338893532753
+
+---- 170 degrees results ---- 
+
+ 249 detections out of 557 samples
+
+ Percentage of detections: 44.703770197486534 %
+
+Avg loss on 170 rotation:  0.3660488923386944
+
+Stdev loss on 170 rotation:  0.2649983011539831
+
+Median loss on 170 rotation:  0.37431296706199646
+
+---- 180 degrees results ---- 
+
+ 263 detections out of 557 samples
+
+ Percentage of detections: 47.217235188509875 %
+
+Avg loss on 180 rotation:  0.3694325169693697
+
+Stdev loss on 180 rotation:  0.2646367327081087
+
+Median loss on 180 rotation:  0.3601549565792084
